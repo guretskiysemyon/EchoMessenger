@@ -15,7 +15,7 @@ The link is provided:
 [Echo Server Side](https://github.com/guretskiysemyon/EchoServerSide.git)
 
 
-In the third part, we developed an Android application for our messenger using the JAVA programming language. 
+In the third part, we developed an Android application for our messenger using the JAVA programming language, Room DB. 
 
 The link is provided below:
 [Echo Android](https://github.com/guretskiysemyon/EchoAndroid.git)
